@@ -2,19 +2,22 @@
 
 Cria um frontend para a API existente em [MyAPI (v1)](https://github.com/catarinafoliveira/myApi_v1)
 
-## Project Setup
+## Instalar dependências
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Executar API backend
+De acordo com instruções no seu ficheiro README.md
+
+### Compilar (+Hot-Reload) em Development
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar em Production
 
 ```sh
 npm run build
